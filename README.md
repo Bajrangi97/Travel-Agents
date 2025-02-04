@@ -1,4 +1,4 @@
-# Travel Planner Crew AI Agents - Streamlit App 
+# Travel Planner Agents 
 
 Travel Planner Agents are dedicated to crafting personalized and comprehensive travel itineraries tailored to your specific needs. By considering your travel origin, destination, interests, date range, and the number of travelers, our agents curate the perfect travel plan, ensuring an engaging and memorable experience.
 

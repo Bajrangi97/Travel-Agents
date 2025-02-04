@@ -54,6 +54,6 @@ This will initiate the Crew AI workflow and generate a perfect trip plan for you
 
 ## Authors
 
-- [@Bajrangi97](https://github.com/Bajrangi97/my-repo.git)
+- [@Bajrangi97](https://github.com/Bajrangi97/Travel-Agents.git)
 
 # Travel-Agents
